@@ -1,2 +1,2 @@
 # hello-world-
-Jed here, I wanna be a master coder and engineer someday.
+Jed here, hope be a master coder and engineer someday.
