@@ -1,3 +1,2 @@
 # hello-world-
-always think outside the box
-I'm ambitious and will make it with perseverance.
+Jed here, I wanna be a master coder and engineer someday.
